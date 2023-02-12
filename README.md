@@ -47,6 +47,9 @@ This repository is meant to serve as a mono-repo curating all the resources deve
 - [ML Kit github](https://github.com/valory-xyz/apy-oracle), create services with custom machine learning capabilities.
 - [Oracle Kit github](https://github.com/valory-xyz/price-oracle), create services providing data streams onto blockchains.
 
+### Autonolas Front-end Library (common UI modules/components for Autonolas frontends)
+- [github](https://github.com/valory-xyz/autonolas-frontend-library)
+
 ### Research, Reading, & Cool stuff
 - [Autonolas Whitepaper](https://www.autonolas.network/whitepaper)
 - [Autonolas Medium](https://autonolas.medium.com/)
@@ -55,6 +58,7 @@ This repository is meant to serve as a mono-repo curating all the resources deve
 - [BTC/USD price oracle using Autonolas](https://oracle.autonolas.network/price)
 - [El Collectoooooooooooorrrrrrrr](https://elcollectooorr.art/)
 - [Contribution Badges!](https://contribute.autonolas.network/)
+- [curiousrabbit.eth's Agent Service guide](https://auspicious-cap-b5c.notion.site/Autonolas-1bb07159253f4fb7babaf1409dd5529c)
 
 ## Other Documents
 
